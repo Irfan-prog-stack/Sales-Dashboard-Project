@@ -28,3 +28,37 @@ If you’d like to discuss or collaborate:
 **Email: Irfanarifin1794@gmail.com** 
 **Linkedin : www.linkedin.com/in/irfan-arifin-9206a922b**
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](dashboard_preview.png)
+
+---
+
+## 🎯 Project Objective
+The goal of this project was to analyze sales data and identify key business insights for management decision-making.
+
+---
+
+## 🧮 Data Cleaning Summary
+- Removed missing or duplicated `OrderID` values  
+- Converted `Profit` and `Price` columns from text to numeric  
+- Added new calculated columns:
+  - `TotalSale = Quantity * DiscountedPrice`
+  - `Profit Margin = Profit / TotalSale`
+
+---
+
+## 📉 Key Metrics (KPIs)
+| KPI | Description |
+|-----|--------------|
+| 💰 **Total Sales** | Overall revenue generated |
+| 📦 **Total Quantity Sold** | Sum of product units sold |
+| 📈 **Average Profit Margin** | Average profit per transaction |
+| 🌍 **Top Performing Region** | Region with highest total sales |
+
+---
+
+## 🧩 Tools & Skills Demonstrated
+- Power BI (Data Modeling, DAX, Visualization)
+- Data Cleaning in Excel
+- Analytical Thinking
+- GitHub Project Documentation
