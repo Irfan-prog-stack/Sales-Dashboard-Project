@@ -9,10 +9,17 @@ It showcases a Power BI dashboard that tracks sales trends, regional performance
 - Profit Margin & Product Analysis  
 - KPI Cards with DAX Measures  
 
-## 🧰 Tools Used
-- Microsoft Power BI  
-- Excel (Data Cleaning)  
-- DAX & Power Query  
+🧰 **Tools & Technologies**
+- Power BI (Data Visualization)
+- Excel / CSV (Data Source)
+- DAX (KPI Calculations)
+- GitHub (Version Control & Portfolio)
+
+🖥️ **How to View**
+1. Download the `.pbix` file from this repository.
+2. Open it in **Power BI Desktop**.
+3. Explore the interactive visuals and KPIs.
+
 
 ## 📈 Objectives
 To analyze sales data and visualize business performance using KPIs and trend charts.
@@ -34,8 +41,10 @@ If you’d like to discuss or collaborate:
 
 ---
 
-## 🎯 Project Objective
-The goal of this project was to analyze sales data and identify key business insights for management decision-making.
+📘 **Project Overview**
+
+This project visualizes sales performance using Power BI.  
+It includes interactive charts to explore sales trends, profit margins, and product performance across different regions.
 
 ---
 
@@ -69,4 +78,10 @@ The goal of this project was to analyze sales data and identify key business ins
 - **Sales performance** dropped in the last 3 months of the period.  
 - **Profit margins** are lowest in the South region, suggesting high costs or discounts.  
 - Recommended focus: **improve pricing strategy** and **inventory planning**.
+
+🚀 **Future Improvements**
+- Add time comparison (YoY % growth)
+- Include product-level profitability KPIs
+- Connect to a live database or API
+
 
