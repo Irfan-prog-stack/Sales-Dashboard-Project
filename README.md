@@ -29,7 +29,8 @@ If you’d like to discuss or collaborate:
 **Linkedin : www.linkedin.com/in/irfan-arifin-9206a922b**
 
 ## 📊 Dashboard Preview
-(Sales_Dashboard_Preview.PNG)
+![Dashboard Screenshot](https://github.com/Irfan-prog-stack/Sales-Dashboard-Project/blob/main/Sales_Dashboard_Preview.PNG)
+
 
 ---
 
