@@ -63,3 +63,10 @@ The goal of this project was to analyze sales data and identify key business ins
 - Data Cleaning in Excel
 - Analytical Thinking
 - GitHub Project Documentation
+
+## 🧾 Summary of Insights
+- **East region** generated the highest sales overall.  
+- **Sales performance** dropped in the last 3 months of the period.  
+- **Profit margins** are lowest in the South region, suggesting high costs or discounts.  
+- Recommended focus: **improve pricing strategy** and **inventory planning**.
+
