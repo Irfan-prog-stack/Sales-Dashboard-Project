@@ -29,11 +29,6 @@ To analyze sales data and visualize business performance using KPIs and trend ch
 - `SalesDashboard.pbix` – Power BI dashboard file  
 - `README.md` – Project documentation  
 
-## 📬 Contact
-If you’d like to discuss or collaborate:  
-**Name: Mohamad Irfan Bin Mohamad Arifin**   
-**Email: Irfanarifin1794@gmail.com** 
-**Linkedin : www.linkedin.com/in/irfan-arifin-9206a922b**
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/Irfan-prog-stack/Sales-Dashboard-Project/blob/main/Sales_Dashboard_Preview.PNG)
@@ -84,4 +79,8 @@ It includes interactive charts to explore sales trends, profit margins, and prod
 - Include product-level profitability KPIs
 - Connect to a live database or API
 
-
+## 📬 Contact
+If you’d like to discuss or collaborate:  
+**Name: Mohamad Irfan Bin Mohamad Arifin**   
+**Email: Irfanarifin1794@gmail.com** 
+**Linkedin : www.linkedin.com/in/irfan-arifin-9206a922b**
