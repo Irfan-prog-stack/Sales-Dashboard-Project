@@ -29,7 +29,7 @@ If you’d like to discuss or collaborate:
 **Linkedin : www.linkedin.com/in/irfan-arifin-9206a922b**
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](dashboard_preview.png)
+![Dashboard Screenshot](Sales_Dashboard_Preview.png)
 
 ---
 
